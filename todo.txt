@@ -1,0 +1,4 @@
+faire td2 pour regression + fonction pour faire tableau auto avec regression
+controle exemple:
+chatgpt + focus exo 1 et 2 td2
+

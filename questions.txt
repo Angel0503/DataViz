@@ -1,0 +1,5 @@
+comment interpréter ICE plots ?
+faut-il normaliser les données pour l'explicabilité ou seulement pour l'entrainement des modeles ?
+doit on faire l'explicabilité sur toutes les features ou seulement les features les plus intéressantes après la feature selection ?
+possible de faire un randomized search pour un neural network ?
+
