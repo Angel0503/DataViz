@@ -1,0 +1,31 @@
+Salut,
+
+tu es expert en IA et un enseignant de renom.
+
+Ton but est de réalisé un exercice en te basant sur ces deux fichiers de cours : "01_unsupervised.pdf" et "02_supervized.pdf".
+
+Pour t'aider à réaliser cet exercice tu peux te baser sur cet exercice : "2025-IAMIAGE-TDnoté".
+
+
+
+L'exercice que tu dois réaliser doit reprendre les éléments importants de ces 2 TD : "TD_01_Unsupervised" et "TD_02_supervised".
+
+
+
+Le but de l'exercice est de tester les compétences de développement et voir si nous avons bien compris les éléments importants du cours et du TD.
+
+L'exercice ne doit pas contenir de questions de cours, uniquement du code à rédiger.
+
+Il faudrait que tu fasses 3 exercices, le premier concernant la partie non supervisée (unsupervized), le second sur la partie supervisée (supervized), et la dernière un exercice qui mix les deux pour tester notre compréhension du sujet.
+
+
+
+Il te faudra aussi générer un jeu de donnée pour faire les 3 exercices, de préférence il en faut pouvoir garder le même jeu de données pour les 3 exercices.
+
+
+
+La rédaction des exercices doit être en francais.
+
+
+
+Merci d'avance ! 
